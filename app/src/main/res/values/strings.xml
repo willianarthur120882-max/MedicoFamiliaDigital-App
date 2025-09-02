@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Médico de Família Digital</string>
+    <string name="welcome_title">Bem-vindo ao Médico de Família Digital</string>
+    <string name="welcome_description">Sua saúde familiar em suas mãos</string>
+    <string name="login_with_google">Entrar com Google</string>
+    <string name="keep_logged_in">Manter login ativo</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="biometric_auth">Autenticação Biométrica</string>
+    <string name="profiles">Perfis</string>
+    <string name="documents">Documentos</string>
+    <string name="ai_assistant">Assistente IA</string>
+    <string name="home">Início</string>
+    <string name="more">Mais</string>
+    <string name="add_profile">Adicionar Perfil</string>
+    <string name="my_profiles">Meus Perfis</string>
+    <string name="name">Nome</string>
+    <string name="age">Idade</string>
+    <string name="gender">Sexo</string>
+    <string name="medical_history">Histórico Médico</string>
+    <string name="allergies">Alergias</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="male">Masculino</string>
+    <string name="female">Feminino</string>
+    <string name="other">Outro</string>
+</resources>
+
